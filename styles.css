@@ -1,0 +1,9 @@
+body {
+  background-color: aqua;
+  text-align: center;
+}
+h1 {
+  font-size: large;
+  font-style: oblique;
+  font-variant: small-caps;
+}
